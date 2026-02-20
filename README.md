@@ -64,6 +64,7 @@ The best model checkpoint `champion_income_classifier_model.pkl` will be saved u
 ```bash
 bash main_part2_segmentation.sh
 ```
+Any plots that were saved through the scripts or the notebooks can be found under `plots_and_metadata`.
 
 ## 👤 Author
 **Manoj Srinivasan** *Data Science / Machine Learning*
