@@ -58,6 +58,7 @@ If you prefer to run the raw Python scripts directly from your terminal, you can
 ```bash
 bash main_part1_classifier.sh
 ```
+The best model checkpoint `champion_income_classifier_model.pkl` will be saved under the working directory upon the script's completion.
 
 **Running Part 2: Segmentation**
 ```bash
