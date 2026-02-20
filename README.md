@@ -33,7 +33,7 @@ This repository contains a dual-pronged machine learning framework developed for
 
 ## ⚙️ Prerequisites & Setup
 
-Ensure you have **Python 3.8+** installed. To replicate the environment and install all necessary dependencies (like `pandas`, `scikit-learn`, `numpy`, `matplotlib`, and `seaborn`), run:
+Ensure you have **Python 3.8+** installed (**Python 3.10+** recommended). To replicate the environment and install all necessary dependencies (like `pandas`, `scikit-learn`, `numpy`, `matplotlib`, and `seaborn`), run:
 
 ```bash
 pip install -r requirements.txt
