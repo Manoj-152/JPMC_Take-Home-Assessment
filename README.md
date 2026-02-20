@@ -1,6 +1,7 @@
 # Income Classification & Population Segmentation for Targeted Marketing
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/Manoj-152/JPMC_Take-Home-Assessment)
+[![View Report](https://img.shields.io/badge/📄_View_Full_Report-PDF-red.svg)](./JPMC-Take_Home_Assessment-Report.pdf)
 
 This repository contains a dual-pronged machine learning framework developed for targeted marketing optimization. The project is divided into two core analytical components:
 1. **Part 1 (Classification):** A supervised machine learning pipeline (Random Forest) designed to predict high-income individuals (>$50k) using census data, optimized via Normalized Mutual Information (NMI) feature selection.
