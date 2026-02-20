@@ -1,3 +1,9 @@
+##############################################################################################################
+# Script: KMeans_elbow_plot_analysis.py
+# This script performs KMeans clustering and Elbow Method analysis to determine the optimal number of clusters
+# for the marketing segmentation task, using the PCA-reduced data from the previous step.
+##############################################################################################################
+
 from sklearn.cluster import KMeans
 from pca_dimensionality_reduction import pca_dimensionality_reduction
 import matplotlib.pyplot as plt

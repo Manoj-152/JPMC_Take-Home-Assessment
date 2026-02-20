@@ -1,3 +1,9 @@
+##############################################################################################################
+# Script: profiling_KMeans_clusters.py
+# This script performs KMeans clustering on the PCA-reduced data and profiles the resulting clusters to
+# understand the characteristics of each marketing segment.
+##############################################################################################################
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

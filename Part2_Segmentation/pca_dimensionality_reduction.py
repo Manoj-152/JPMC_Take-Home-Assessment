@@ -1,3 +1,8 @@
+##############################################################################################################
+# Script: pca_dimensionality_reduction.py
+# This script performs feature augmentation and PCA dimensionality reduction for the segmentation task.
+##############################################################################################################
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
