@@ -26,7 +26,8 @@ This repository contains a dual-pronged machine learning framework developed for
 ├── census-bureau.data             # Raw census data file (ensure this is downloaded and placed here)
 ├── census-bureau.columns          # Column names for the census data (ensure this is downloaded and placed here)                           
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└──JPMC-Take_Home_Assessment-Report.pdf # Project report detailing methodologies, results, and insights
 ```
 
 ## ⚙️ Prerequisites & Setup
