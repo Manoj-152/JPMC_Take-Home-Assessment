@@ -38,7 +38,7 @@ Ensure you have **Python 3.8+** installed. To replicate the environment and inst
 ```bash
 pip install -r requirements.txt
 ```
-*(Note: Please ensure the raw census data files are downloaded and placed in the appropriate working directories before execution).*
+*(Note: Please ensure the raw census data files are downloaded and placed in the working directory before execution).*
 
 ## 🚀 Execution Instructions
 
